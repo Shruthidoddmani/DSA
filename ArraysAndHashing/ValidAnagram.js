@@ -1,3 +1,8 @@
+// will check input strings are having the same characters
+// return true if strings are anagram 
+// return false if strings are anagram
+
+
 const isAnagram = function(s, t) {
     let str1 = new Map();
     let str2 = new Map();
