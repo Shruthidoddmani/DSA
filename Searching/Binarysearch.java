@@ -1,3 +1,4 @@
+package DSA.Searching;
 import java.util.Scanner;
 
 public class Binarysearch {
